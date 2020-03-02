@@ -15,7 +15,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Taxi.Cross.Android", "Taxi.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Taxi.Cross.IOS", "Taxi.Cross.IOS\Taxi.Cross.IOS.csproj", "{E59F29FA-3E4E-46DF-9995-25A3818242D8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Taxi.Commom", "Taxi.Commom\Taxi.Commom.csproj", "{9DD8B706-74C0-42FC-BAC8-695FE9D84EE7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Taxi.Common", "Taxi.Commom\Taxi.Common.csproj", "{9DD8B706-74C0-42FC-BAC8-695FE9D84EE7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
