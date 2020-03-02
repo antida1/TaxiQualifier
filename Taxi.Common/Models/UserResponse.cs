@@ -1,4 +1,4 @@
-﻿using Taxi.Commom.Enums;
+﻿using Taxi.Common.Enums;
 
 namespace Taxi.Common.Models
 {

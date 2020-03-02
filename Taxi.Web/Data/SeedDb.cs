@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using Taxi.Commom.Enums;
+using Taxi.Common.Enums;
 using Taxi.Web.Data.Entities;
 using Taxi.Web.Helpers;
 
@@ -40,7 +40,7 @@ namespace Taxi.Web.Data
            string address,
            UserType userType)
         {
-            var user = await _userHelper.GetUserByEmailAsync(email);
+            UserEntity user = await _userHelper.GetUserByEmailAsync(email);
             if (user == null)
             {
                 user = new UserEntity

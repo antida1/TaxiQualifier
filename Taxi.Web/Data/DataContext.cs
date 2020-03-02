@@ -1,6 +1,5 @@
 ﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
-using System.Xml.Serialization;
 using Taxi.Web.Data.Entities;
 
 namespace Taxi.Web.Data

@@ -12,6 +12,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Taxi.Commom\Taxi.Common.csproj" />
+    <ProjectReference Include="..\Taxi.Common\Taxi.Common.csproj" />
   </ItemGroup>
 
 </Project>
