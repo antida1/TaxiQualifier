@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Identity;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
-using Taxi.Commom.Enums;
+using Taxi.Common.Enums;
 
 namespace Taxi.Web.Data.Entities
 {
